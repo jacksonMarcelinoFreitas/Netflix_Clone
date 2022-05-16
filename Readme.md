@@ -9,6 +9,10 @@
 
 <p align="center"><img src="	https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt=""></img></p>
 
+<br>
+<h3 align="center"> 👀Veja o projeto aqui 👉🏻 https://jacksonmarcelinofreitas.github.io/Netflix_Clone/</h3>
+<br>
+
 ## 🔗Arquivos externos:
 
 `🔹Ícones:`
